@@ -11,3 +11,11 @@ No additional dependencies or installations are required.
 - **In-Game Elements**: The game includes various elements such as bombers, air mines, fighters, drones (enemies), and cargo ships (beneficial item).
 - **Difficulty Levels**: Easy, Medium, Hard, and Expert.
 - **Controls**: Navigate the spaceship using arrow keys, shoot with the spacebar, and pause the game by pressing 'P'.
+
+## Screenshots
+
+![Gameplay Start](screenshots/start_screen.png)
+*Figure 1: Start screen of the game.*
+
+![In-Game Action](screenshots/gameplay.png)
+*Figure 2: Spaceship in action during gameplay.*
